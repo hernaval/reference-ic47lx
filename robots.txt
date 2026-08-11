@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hernaval.github.io/reference-ic47lx/sitemap.xml
